@@ -13,7 +13,7 @@ refer to the task page on Lucid and for each of the steps mentioned above write 
 @nsikak also push a very basic website to the repo 
 
 ```diff
-+ #7. setup firewall
+# + 7. setup firewall
 ```
 @e770r setup and configured the firewall using 
 ```
