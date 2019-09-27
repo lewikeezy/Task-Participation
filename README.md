@@ -13,6 +13,15 @@ refer to the task page on Lucid and for each of the steps mentioned above write 
 @nsikak also push a very basic website to the repo 
 
 ```diff
++ 4. create user
+```
+@collins169 create user
+         ```
+        $ sudo adduser alpine
+        ```
+@collins169 granted the user the necessary privileges
+
+```diff
 + 7. setup firewall
 ```
 @e770r setup and configured the firewall using 
@@ -20,3 +29,10 @@ refer to the task page on Lucid and for each of the steps mentioned above write 
         $ apt-get install ufw
         ```
  @e770r used ufw allow to opened the ports used for the Alpine server block
+
+
+```diff
++ 9. create user
+```
+@collins169 setup Jenkins for Auto deployment
+Jenkins was already installed on the server so i just create new job for our group
