@@ -20,3 +20,8 @@ refer to the task page on Lucid and for each of the steps mentioned above write 
         $ apt-get install ufw
         ```
  @e770r used ufw allow to opened the ports used for the Alpine server block
+
+--------------------------------------------------------------------------------
+
+@ce0la installed and setup the NGINX and PHP-FPM (with a view to use the LEMP stack) and git pulled the site's repo
+
